@@ -40,7 +40,7 @@ Hi! I'm **Poorna**, a designer who codes and a developer who thinks in systems.
   </tr>
   <tr>
     <td><a href="https://www.behance.net/gallery/209909555/Capture-Eye-Studio-Website-Design"><b>📸 Capture Eye Studio</b></a><br/>
-    Minimal, visual-forward portfolio site for a creative studio</td>
+    Minimal, visual-forward portfolio site for a Photo studio</td>
   </tr>
 </table>
 
