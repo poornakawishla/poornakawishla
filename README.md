@@ -1,7 +1,11 @@
-<h1 align="center">Hey there! I'm Poorna 👋</h1>
+<h1 align="center">
+  Poorna Kawishla
+  <br>
+  <small>UI/UX Designer & Frontend Developer</small>
+</h1>
 
 <p align="center">
-  A passionate UI/UX Designer & Frontend Developer, blending creativity with code to craft seamless digital experiences.
+  Crafting intuitive, beautiful, and performant digital experiences. ✨
 </p>
 
 <p align="center">
