@@ -1,19 +1,16 @@
-<h1 align="center">Hey, It's Poorna</h1>
+<h1 align="center">Hey there! I'm Poorna 👋</h1>
 
 <p align="center">
-  <a href="https://www.behance.net/poornakawishla" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/poornakawishla/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/poornakawishla" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  A passionate UI/UX Designer & Frontend Developer, blending creativity with code to craft seamless digital experiences.
 </p>
 
-~~~
-const Poorna = {
-  role: ["UI/UX Designer & Frontend Developer,Strategist,Creator"],
-  tools:["Figma,Miro,Pentop,Photoshop,illustrator"]
-  tech: ["ReactJS"],
-  mindset: ["Human-Centered hinker"]
-};
-~~~
+<p align="center">
+  <a href="https://poorna.xyz" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://www.behance.net/poornakawishla" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/poornakawishla/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/poornakawishla" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
 ---
 
 ### 🧠 About Me
