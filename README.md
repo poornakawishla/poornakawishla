@@ -1,18 +1,22 @@
-<h1 align="center">
-  「 Poorna Kawishla 」
+<pre align="center">
+  __  __                  
+ /_  /_    __  __  __  __ 
+/_  /_   /  / /  / /  / / 
+                 /  /   
+</pre>
+<h1 align="center" style="font-family: 'Consolas', monospace; font-weight: bold; font-size: 2.8em; letter-spacing: 2px;">
+  P O O R N A
 </h1>
-
-<p align="center">
-  _UI/UX Designer & Frontend Developer_
-  <br>
-  **Crafting Digital Experiences with a Human Touch** ✨
+<p align="center" style="font-family: 'Segoe UI', 'Roboto', sans-serif; font-size: 1.2em; line-height: 1.5;">
+  <span style="color: #6a0dad;">UI/UX Designer</span> & <span style="color: #007bff;">Frontend Developer</span><br>
+  Crafting digital experiences with **precision** and **passion**. ✨
 </p>
 
 <p align="center">
   <a href="https://poorna.xyz" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://www.behance.net/poornakawishla" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/poornakawishla/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/poornakawishla" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> /></a>
+  <a href="https://www.instagram.com/poornakawishla" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
