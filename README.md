@@ -22,15 +22,19 @@
 </p>
 
 ---
+### 🚀 About Me
 
-### 🧠 About Me
+<p align="center">
+  Hi! I'm <b>Poorna Kawishla</b>, the mind behind <b>Layrr Designs</b>. I thrive at the fascinating intersection of design and development, where I transform complex ideas into intuitive and visually stunning digital experiences. My approach is deeply rooted in human-centered thinking, ensuring every pixel serves a purpose and every interaction delights.
+</p>
 
-Hi! I'm **Poorna**, a designer who codes and a developer who thinks in systems.
+<br>
 
-- 🎨 I design user-first experiences
-- ⚛️ I build interfaces with **React JS**
-- 🧩 I love scalable design systems and pixel-perfect UI
-- 🌐 Currently exploring: **microinteractions**, **motion UI**, and **design tokens**
+| | |
+|---|---|
+| 🎨 **UI/UX Visionary** | I specialize in crafting elegant, user-centric interfaces. From initial concepts to polished designs, I obsess over clarity, usability, and the delightful details that make an experience truly stand out. My passion extends to exploring cutting-edge aesthetics like **Glassmorphism**, aiming for that sleek, immersive feel. |
+| ⚛️ **Frontend Architect** | Bringing designs to life is where my code shines. With a strong foundation in <b>React JS</b>, I build robust, pixel-perfect UIs. I'm dedicated to creating scalable design systems and clean, efficient code that powers seamless user journeys. |
+| 💡 **Innovator & Strategist** | Beyond the tools, I'm a strategic thinker constantly pushing boundaries. I delve into **microinteractions**, **fluid motion UI**, and the power of **design tokens** to create dynamic, future-forward solutions. My goal is to build digital products that feel both effortless and exceptionally engaging. |
 
 ---
 
